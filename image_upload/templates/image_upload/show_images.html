@@ -1,0 +1,9 @@
+{% extends 'image_upload/base.html' %}
+{% block content %}
+{% for imag in images %}
+    <div class="col-md-4">
+        {{ imag.name }}
+        <img src="{{ imag.image.url }}" class="img-responsive" style="width: 100%; float: left; margin-right: 10px;" />
+    </div>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'image_upload/base.html' %}
+{% block content %}
+<h1 style="margin-top: 200px; margin-left: 300px; margin-right: 50px; margin-bottom: 50px">
+	Image classification:
+</h1>
+<div style="margin-top: 100px; margin-left: 300px; margin-right: 50px; margin-bottom: 50px">
+        <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button style="margin-top: 100px" type="submit">Evaluate</button>
+        </form>
+</div>
+{% endblock %}
