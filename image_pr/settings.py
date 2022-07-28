@@ -23,7 +23,7 @@ MEDIA_URL = '/media/'  # reference URL for browser to access files over http
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '-=j+^%mie59v*qgif!2&7vx7%jezhtudex9y4y_icoodq@k_56'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
