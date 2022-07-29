@@ -24,4 +24,4 @@ ferromagnet, anti-ferromagnet, stripe ordered and disordered phase.
 
 
 ##### Demo video
-The demo of the app can be acessed via this link ![label]{https://www.youtube.com/watch?v=xj00o--9N2U&t=38s}
+The demo of the app can be found via this [Youtube](https://youtu.be/xj00o--9N2U) link.
