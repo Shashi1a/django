@@ -17,6 +17,7 @@ For $J_{2} = 0$ and $J_{1} > 0$(interaction $J_{1}$ is ferromagnetic in nature) 
 ### Anti-ferromagnet
 For $J_{2} = 0$ and $J_{1}<0$(interaction $J_{1}$ is anti-ferromagnetic in nature) the energy is minimized when the product $S_{i}S_{j}<0$. In this case
 spins tends to align in an anti-parallel or in an anti-ferromagnetic fashion. The two possible configurations possible are shown below.
+
 ![Anti-Ferromagnetic configurations](af.svg)
 
 ### Stripe
